@@ -9,5 +9,6 @@ CraigsBot was initially developed to compete with dealerships that swoop up the 
 
 Personally, I hosted CraigsBot on a Raspberry Pi and found the perfect car for myself within one month!
 
+--- 
 
 June 2020
