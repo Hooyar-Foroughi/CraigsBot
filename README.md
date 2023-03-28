@@ -3,11 +3,11 @@
 
 ---
 
-Given user-specified search parameters, Craigsbot will monitor Craiglist and find a vehicle that meets your requirements, then send you a direct message on Twitter with the details! 
+Given user-specified search parameters, CraigsBot will monitor Craiglist and find a vehicle that meets your requirements, then send you a direct message on Twitter with the details! 
 
-CraigsBot was initially developed to compete with dealerships that swoop up the best deals in a hurry and re-sell them for a profit and it has been proven to work!
+CraigsBot was initially developed to compete with dealerships that quickly swoop up the best deals on the market and re-sell them with a markup, and it has been proven to work!
 
-Personally, I hosted CraigsBot on a Raspberry Pi and found the perfect car for myself within one month!
+Personally, I hosted CraigsBot on a Raspberry Pi and was able to pick up a great deal within the same month!
 
 --- 
 
